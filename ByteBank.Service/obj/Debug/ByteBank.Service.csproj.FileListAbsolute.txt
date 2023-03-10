@@ -1,0 +1,6 @@
+C:\Users\ian_m\Documents\DEV\CSharp\MeusProjetos\csharp-reflection-2-master\ByteBank.Portal\ByteBank.Service\bin\Debug\ByteBank.Service.dll
+C:\Users\ian_m\Documents\DEV\CSharp\MeusProjetos\csharp-reflection-2-master\ByteBank.Portal\ByteBank.Service\bin\Debug\ByteBank.Service.pdb
+C:\Users\ian_m\Documents\DEV\CSharp\MeusProjetos\csharp-reflection-2-master\ByteBank.Portal\ByteBank.Service\obj\Debug\ByteBank.Service.csproj.AssemblyReference.cache
+C:\Users\ian_m\Documents\DEV\CSharp\MeusProjetos\csharp-reflection-2-master\ByteBank.Portal\ByteBank.Service\obj\Debug\ByteBank.Service.csproj.CoreCompileInputs.cache
+C:\Users\ian_m\Documents\DEV\CSharp\MeusProjetos\csharp-reflection-2-master\ByteBank.Portal\ByteBank.Service\obj\Debug\ByteBank.Service.dll
+C:\Users\ian_m\Documents\DEV\CSharp\MeusProjetos\csharp-reflection-2-master\ByteBank.Portal\ByteBank.Service\obj\Debug\ByteBank.Service.pdb
